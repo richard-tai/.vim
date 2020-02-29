@@ -25,3 +25,6 @@
 [submodule "pack/plugins/start/YouCompleteMe"]
 	path = pack/plugins/start/YouCompleteMe
 	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "pack/plugins/start/markdown-preview.nvim"]
+	path = pack/plugins/start/markdown-preview.nvim
+	url = https://github.com/iamcco/markdown-preview.nvim.git
